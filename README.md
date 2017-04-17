@@ -1,6 +1,6 @@
 ## evgenii.com
 
-This repository contains my personal web site project: http://evgenii.com.
+This repository contains my personal web site project: xxx.
 
 ## Installation
 
